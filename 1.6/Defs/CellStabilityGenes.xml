@@ -4,7 +4,7 @@
         <defName>Stability_Mild</defName>
         <label>mild cell stability</label>
         <description>Carriers of this gene need more metabolic energy to stay alive, in exchange for an increase in stability of their cell-replication machinery.</description>
-        <iconPath>MildCellStability</iconPath>
+        <iconPath>MBSG/MildCellStability</iconPath>
         <displayOrderInCategory>129</displayOrderInCategory>
         <biostatMet>-2</biostatMet>
         <statFactors>
@@ -18,7 +18,7 @@
         <defName>Stability_Major</defName>
         <label>major cell stability</label>
         <description>Carriers of this gene need more metabolic energy to stay alive, in exchange for a large increase in stability of their cell-replication machinery.</description>
-        <iconPath>MajorCellStability</iconPath>
+        <iconPath>MBSG/MajorCellStability</iconPath>
         <displayOrderInCategory>128</displayOrderInCategory>
         <biostatMet>-4</biostatMet>
         <statFactors>
@@ -32,7 +32,7 @@
         <defName>Stability_Extreme</defName>
         <label>extreme cell stability</label>
         <description>Carriers of this gene need more metabolic energy to stay alive, in exchange for an extremely large increase in stability of their cell-replication machinery.</description>
-        <iconPath>ExtremeCellStability</iconPath>
+        <iconPath>MBSG/ExtremeCellStability</iconPath>
         <displayOrderInCategory>127</displayOrderInCategory>
         <biostatMet>-6</biostatMet>
         <statFactors>
